@@ -12,7 +12,7 @@ detects quality issues, and generates a data quality score.
 - Outputs an overall Data Quality Score (%)
 
 ## 📊 Dataset
-Synthetic Kenyan bank loan portfolio data — 30 rows simulating
+Synthetic Kenyan bank loan portfolio data — 32 rows simulating
 real branch data with deliberately introduced quality issues.
 
 ## 🛠️ Tools Used
@@ -57,8 +57,3 @@ Status: ❌ POOR — Major Cleaning Required
 [LinkedIn](https://www.linkedin.com/in/marvin-wekesa-9754b0124)
 ```
 
-
-
-Your repo link will look like this:
-```
-https://github.com/YourUsername/loan-portfolio-data-quality-audit
