@@ -1,0 +1,33 @@
+loan_id,customer_name,loan_amount,interest_rate,loan_term_months,disbursement_date,status,branch
+LN001,James Otieno,150000,14.5,12,2024-01-15,Active,Nairobi CBD
+LN002,Wanjiru Kamau,320000,12.0,24,2024-02-20,Closed,Westlands
+LN003,Brian Mutua,,15.5,6,2024-03-10,Active,Mombasa
+LN004,Fatuma Hassan,9999999,11.0,36,2024-01-28,Defaulted,Kisumu
+LN005,Peter Njoroge,200000,13.5,12,2024-04-05,Active,Nairobi CBD
+LN006,,75000,16.0,6,2024-02-14,Closed,Nakuru
+LN007,Samuel Kipchoge,510000,not available,24,2024-03-22,Active,Eldoret
+LN008,Amina Wekesa,130000,,12,2024-05-01,Defaulted,Mombasa
+LN009,David Mwangi,290000,13.0,36,2024-01-30,Closed,Westlands
+LN010,Rose Adhiambo,60000,15.0,6,2024-04-18,Active,Kisumu
+LN001,James Otieno,150000,14.5,12,2024-01-15,Active,Nairobi CBD
+LN011,Kevin Odhiambo,175000,14.0,12,2024-06-01,ACTIVE,NBI CBD
+LN012,Mercy Chebet,95000,13.5,6,2024-06-10,active,Nakuru
+LN013,Hassan Abdi,,12.5,24,2024-07-05,Closed,Garissa
+LN014,Lilian Muthoni,430000,not available,36,2024-05-20,Defaulted,Thika
+LN015,Tom Kariuki,88000,17.5,6,2024-08-01,Active,Nairobi CBD
+LN016,Beatrice Atieno,220000,12.0,24,2024-07-15,Closed,Kisumu
+LN017,Moses Kimani,9850000,11.5,36,2024-06-25,Active,Westlands
+LN018,Zainab Mwenda,145000,15.5,12,2024-08-10,Active,Mombasa
+LN019,,310000,13.0,24,2024-09-01,Closed,Eldoret
+LN020,Faith Wangari,55000,16.5,6,2024-09-15,Defaulted,Nakuru
+LN016,Beatrice Atieno,220000,12.0,24,2024-07-15,Closed,Kisumu
+LN021,Emmanuel Ochieng,185000,,12,2024-10-01,Active,Nairobi CBD
+LN022,Stella Auma,410000,12.5,36,2024-10-20,CLOSED,Westlands
+LN023,Patrick Waweru,70000,15.0,6,2024-11-05,Active,Thika
+LN024,Diana Njeri,260000,not available,24,2024-10-15,Defaulted,Garissa
+LN025,George Omondi,,14.5,12,2024-11-20,Active,Kisumu
+LN026,Alice Mutuku,115000,13.5,6,2024-12-01,Closed,Nairobi CBD
+LN027,Joseph Kamau,9500000,12.0,36,2024-12-10,Active,Mombasa
+LN028,Naomi Chelangat,195000,14.0,24,2025-01-05,Active,Eldoret
+LN029,Victor Otieno,,13.5,12,2025-01-15,DEFAULTED,Nakuru
+LN030,Christine Wanjiku,80000,16.0,6,2025-02-01,Active,Nairobi CBD
